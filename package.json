@@ -6,7 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js",
-    "build": "node app.js",
     "eject": "react-scripts eject",
     "deploy": "node app.js"
   },
